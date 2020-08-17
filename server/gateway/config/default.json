@@ -1,0 +1,11 @@
+{
+    "port": 8080,
+    "torrent": {
+        "statsReceiver": {
+            "port": 13400
+        }
+    },
+    "db": {
+        "url": "mongodb://127.0.0.1/torrent"
+    }
+}

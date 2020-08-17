@@ -1,0 +1,12 @@
+{
+    "port": 8081,
+    "hostname": "localhost",
+    "storagePath": "D:/storage",
+    "gateway": {
+        "address": "http://localhost:8080",
+        "torrentStatsReceiver": {
+            "host": "localhost",
+            "port": "13400"
+        }
+    }
+}
